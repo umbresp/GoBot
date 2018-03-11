@@ -1,0 +1,42 @@
+{
+	"comment": "",
+	"package": [
+		{
+			"path": "github.com/alecthomas/gometalinter"
+		},
+    {
+      "path": "github.com/bwmarrin/discordgo"
+    },
+    {
+      "path": "github.com/fatih/gomodifytags"
+    },
+    {
+      "path": "github.com/gorilla/websocket"
+    },
+    {
+      "path": "github.com/nsf/gocode"
+    },
+    {
+      "path": "github.com/rogpeppe/godef"
+    },
+    {
+      "path": "github.com/sqs/goreturns"
+    },
+    {
+      "path": "github.com/tpng/gopkgs"
+    },
+    {
+      "path": "github.com/zmb3/goaddimport"
+    },
+    {
+      "path": "github.com/zmb3/gogetdoc"
+    },
+    {
+      "path": "golang.org/x/crypto"
+    },
+    {
+      "path": "golang.org/x/tools"
+    }
+	],
+	"rootPath": "github.com/umbresp/GoBot"
+}
